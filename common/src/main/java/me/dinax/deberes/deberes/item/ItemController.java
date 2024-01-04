@@ -1,6 +1,6 @@
-package item;
+package me.dinax.deberes.deberes.item;
 
-import creative_tab.CreativeTabController;
+import me.dinax.deberes.deberes.creative_tab.CreativeTabController;
 import dev.architectury.registry.registries.DeferredRegister;
 import dev.architectury.registry.registries.RegistrySupplier;
 import me.dinax.deberes.deberes.DeberesDeRest;

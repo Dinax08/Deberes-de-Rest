@@ -1,7 +1,7 @@
 package me.dinax.deberes.deberes;
 
-import creative_tab.CreativeTabController;
-import item.ItemController;
+import me.dinax.deberes.deberes.creative_tab.CreativeTabController;
+import me.dinax.deberes.deberes.item.ItemController;
 
 public class DeberesDeRest
 {

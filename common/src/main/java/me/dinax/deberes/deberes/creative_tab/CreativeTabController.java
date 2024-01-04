@@ -1,9 +1,9 @@
-package creative_tab;
+package me.dinax.deberes.deberes.creative_tab;
 
 import dev.architectury.registry.CreativeTabRegistry;
 import dev.architectury.registry.registries.DeferredRegister;
 import dev.architectury.registry.registries.RegistrySupplier;
-import item.ItemController;
+import me.dinax.deberes.deberes.item.ItemController;
 import me.dinax.deberes.deberes.DeberesDeRest;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
